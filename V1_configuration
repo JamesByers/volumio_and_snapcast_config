@@ -1,8 +1,0 @@
-## V1 multi-room configuration
-This page describes the steps to successfully complete the V1 configuration to set up a multi-room Sonos-like system
-Configuring Volumio and Snapcast for a DIY Sonos like music system
-
-#### Overview
-This repository contains instructions for turning Volumio into a multi-room music player
-* The V1 configuration uses Volumio2 as the master control and Raspbian with Snapclient installed as the music nodes in other rooms
- * [Detail for the V1 configuration is here]
