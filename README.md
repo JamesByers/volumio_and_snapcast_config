@@ -1,5 +1,10 @@
 ## Configuring Volumio and Snapcast for a DIY Sonos like music system
 
+#### Overview
+This repository contains instructions for turning Volumio into a multi-room music player
+* V1 configuration using Volumio2 as the master control and Raspbian with Snapclient installed as the nodes in other rooms
+
+
 #### References
 * Volumio forum discussions
   * [Guide: Multiroom Audio Output from Volumio With Snapcast](https://volumio.org/forum/multiroom-audio-output-from-volumio-with-snapcast-t3217.html)
