@@ -3,8 +3,6 @@
 #### Overview
 This repository contains instructions for turning Volumio into a multi-room music player
 * The V1 configuration uses Volumio2 as the master control and Raspbian with Snapclient installed as the music nodes in other rooms
- * [Detail for the V1 configuration goes  here]
-
 
 #### References
 * Volumio forum discussions
