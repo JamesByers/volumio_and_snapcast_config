@@ -3,11 +3,11 @@
 #### Overview
 This repository contains instructions for turning Volumio into a multi-room music player
 * The V1 configuration uses Volumio2 as the master control and Raspbian with Snapclient installed as the music nodes in other rooms
- * [Detail for the V1 configuration is here]
+ * [Detail for the V1 configuration goes  here]
 
 
 #### References
 * Volumio forum discussions
   * [Guide: Multiroom Audio Output from Volumio With Snapcast](https://volumio.org/forum/multiroom-audio-output-from-volumio-with-snapcast-t3217.html)
   * [How do I get Multi-room sync audi working?](https://volumio.org/forum/how-get-multi-room-sync-audio-working-t4685.html)
-* [HiFIberry driver/config considerations (includes digi and digi+](https://www.hifiberry.com/upgrading-raspbian-to-jessie/)
+* [HiFIberry driver/config considerations (includes digi and digi+)](https://www.hifiberry.com/upgrading-raspbian-to-jessie/)
