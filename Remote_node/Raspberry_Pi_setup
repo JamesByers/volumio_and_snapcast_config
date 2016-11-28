@@ -9,13 +9,27 @@
   * sudo apt-get update
   * sudo apt-get upgrade
   * sudo apt-get dist-upgrade
-  * sudo apt-get install libboost-dev libboost-system-dev libboost-program-options-dev libasound2-dev libvorbis-dev libflac-dev alsa-utils libavahi-client-dev avahi-daemon
   * apt-get -f install
   * download and install Snapclient
     * wget https://github.com/badaix/snapcast/releases/download/v0.10.0/snapclient_0.10.0_armhf.deb
+    * apt-get -f install
     * dpkg -i snapclient_0.10.0_armhf.deb
+    * 
+    
     
   * Installing hibbery digi+ soundcardnano /boot/config.txt
    * nano /boot/config.txt
     * add line dtoverlay=hifiberry-digi
+   * root@raspberrypi:/home/pi# touch /etc/asound.conf
+   * root@raspberrypi:/home/pi# nano /etc/asound.conf
+  
+pcm.!default {
+    type hw
+    card 1
+}
+
+ctl.!default {
+    type hw           
+    card 1
+}
   
