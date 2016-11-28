@@ -9,6 +9,7 @@
   * sudo apt-get update
   * sudo apt-get upgrade
   * sudo apt-get dist-upgrade
+  * sudo apt-get install libboost-dev libboost-system-dev libboost-program-options-dev libasound2-dev libvorbis-dev libflac-dev alsa-utils libavahi-client-dev avahi-daemon
   * apt-get -f install
   * download and install Snapclient
     * wget https://github.com/badaix/snapcast/releases/download/v0.10.0/snapclient_0.10.0_armhf.deb
